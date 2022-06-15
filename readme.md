@@ -111,6 +111,7 @@ python demo.py --checkpoint-path weights/checkpoint_iter_370000.pth --video [vid
 代码中增加了关键点热力图可视化工具，具体代码在tools/Net_Vision.py
 
 如本代码对您有帮助，还请帮忙点下stars
+
 权重：
 
 链接：https://pan.baidu.com/s/17aHEelxxO5RhkZWm97YHJg 
